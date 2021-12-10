@@ -1,0 +1,18 @@
+Eliminate: H - M, T, U?
+Get rid of: AC, AD, AG
+Combine Z and AA? Yes, sum.
+Scrap 100% EV manufacturers. How to handle others?
+Combine AK and AN, delete AL and AM, AW-BB
+
+Try linear (foward/backward), CART, training/test set
+
+REMOVE:
+Real-World MPG (maybe?)
+
+ 			 
+
+['Real-World MPG_City','Real-World MPG_Hwy','Real-World CO2 (g/mi)','Real-World CO2_City (g/mi)','Real-World CO2_Hwy (g/mi)','HP/Weight (lbs)','Ton-MPG (Real-World)','Transmission - Other','Fuel Delivery - Carbureted','Fuel Delivery - Throttle Body Injection','Powertrain - Fuel Cell Vehicle (FCV)','Powertrain - Other (incl. CNG)','4 or Fewer Gears','5 Gears','6 Gears','7 Gears','8 Gears','9 or More Gears']
+
+COMBINE:
+['Transmission - Automatic','Transmission - Lockup']
+['Powertrain - Plug-in Hybrid Electric Vehicle (PHEV)','Powertrain - Gasoline Hybrid']
